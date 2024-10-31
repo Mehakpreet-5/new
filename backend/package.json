@@ -1,0 +1,27 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "mern",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehakpreet-5/new.git"
+  },
+  "author": "Mehak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehakpreet-5/new/issues"
+  },
+  "homepage": "https://github.com/Mehakpreet-5/new#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.2"
+  }
+}
